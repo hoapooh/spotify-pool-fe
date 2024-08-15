@@ -22,7 +22,7 @@ const LeftSideBar = () => {
 					<div className={"flex"}>
 						<Link to={"/"} className={"pl-6 pr-6 mt-5"}>
 							<img
-								src="src/assets/images/Spotify_Logo_RGB_White.png"
+								src="./Spotify_Logo_RGB_White.png"
 								alt={"Spotify Logo White"}
 								className={"h-6"}
 							/>
